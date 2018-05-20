@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "Makoto Inoue <inouemak@googlemail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zos-lib": "^0.1.25"
+  }
 }

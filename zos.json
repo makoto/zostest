@@ -1,0 +1,7 @@
+{
+  "name": "zostest",
+  "version": "0.0.1",
+  "contracts": {
+    "MyContract": "MyContract"
+  }
+}
